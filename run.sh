@@ -1,0 +1,1 @@
+g++ -o pay pay.cpp
